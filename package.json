@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/gukatayama82/func_npm/issues"
   },
-  "homepage": "https://github.com/gukatayama82/func_npm#readme"
+  "homepage": "https://github.com/gukatayama82/func_npm#readme",
+  "keywords": []
 }
