@@ -4,3 +4,8 @@ function somaDois(value1, value2){
 }
 
 console.log(somaDois(2,3));
+
+exports.printMsg = function() {
+	console.log("Hello World!");
+	return "Hello World!";
+}
